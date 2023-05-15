@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
-$db = 'db_clothing';
-$user = 'root';
-$pass = '';
+$db = 'db_veri22025ti';
+$user = 'veri22025ti';
+$pass = '15810110222025';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
